@@ -1,0 +1,1 @@
+C:\Users\danielle\ meer\Documents\Programming_Projects\BootCamp\Solana_BootCamp\DAY2\hello-rust\target\debug\hello-rust.exe: C:\Users\danielle\ meer\Documents\Programming_Projects\BootCamp\Solana_BootCamp\DAY2\hello-rust\src\main.rs
